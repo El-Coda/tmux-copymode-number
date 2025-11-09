@@ -1,7 +1,5 @@
 # tmux-copymode-number
 
-[demo](https://github.com/user-attachments/assets/aad054ec-4766-4781-8ba3-3f0af73bb420)
-
 tmux-copymode-number is hardly a plugin, its just a bunch scripts that display **relative line numbers in copy-mode**. it uses Neovim’s terminal with a specific configuration to simulate copy-mode.
 
 ## Dependencies
